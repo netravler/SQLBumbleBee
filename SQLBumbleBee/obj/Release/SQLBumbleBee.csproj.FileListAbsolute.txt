@@ -1,0 +1,16 @@
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Release\SQLBumbleBee.Form1.resources
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Release\SQLBumbleBee.Properties.Resources.resources
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Release\SQLBumbleBee.csproj.GenerateResource.Cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Release\SQLBumbleBee.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Release\SQLBumbleBee.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Release\SQLBumbleBee.Form1.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Release\SQLBumbleBee.Properties.Resources.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Release\SQLBumbleBee.csproj.GenerateResource.Cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Release\SQLBumbleBee.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Release\SQLBumbleBee.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Release\SQLBumbleBee.exe.manifest
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Release\SQLBumbleBee.application
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Release\SQLBumbleBee.exe.manifest
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Release\SQLBumbleBee.application

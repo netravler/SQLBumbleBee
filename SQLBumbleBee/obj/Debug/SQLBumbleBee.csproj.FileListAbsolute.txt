@@ -1,0 +1,33 @@
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Debug\SQLBumbleBee.Form1.resources
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Debug\SQLBumbleBee.Properties.Resources.resources
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Debug\SQLBumbleBee.csproj.GenerateResource.Cache
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\bin\Debug\SQLBumbleBee.exe
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\bin\Debug\SQLBumbleBee.pdb
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Debug\SQLBumbleBee.exe
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\SQLBumbleBee\obj\Debug\SQLBumbleBee.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Debug\SQLBumbleBee.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Debug\SQLBumbleBee.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.Form1.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.Properties.Resources.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.csproj.GenerateResource.Cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Debug\SQLBumbleBee.exe.manifest
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Debug\SQLBumbleBee.application
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.exe.manifest
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.application
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.exe
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.pdb
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Debug\SQLBumbleBee.exe.manifest
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Debug\SQLBumbleBee.application
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Debug\SQLBumbleBee.exe
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\bin\Debug\SQLBumbleBee.pdb
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.Form1.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.Properties.Resources.resources
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.exe.manifest
+C:\Users\pheintz\Visual Studio 2008\Projects\SQLBumbleBee\SQLBumbleBee\obj\Debug\SQLBumbleBee.application
